@@ -6,6 +6,7 @@ Currently it supports right-click to deselect an artifacts in the enhancement vi
 
 Use this at your own risk. You probably won't get banned, as we are only moving the mouse, and it is no causing any harm for Mihoyo in any way.
 
+<img src="./docs/images/showcase.gif">
 
 ## Getting Started
 1. Start Genshin Impact game
